@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Supriya Kumar"
-  avatar           : "Supriya2.jpg"
+  avatar           : "/images/Supriya2.jpg"
   bio              : "Public health professional with expertise in infectious disease surveillance. Passionate about health equity"
   location         : "Seattle, WA"
   employer         : "https://www.gatesfoundation.org/"
